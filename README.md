@@ -20,15 +20,11 @@
 > [!NOTE]
 > For Neptune `2.x` setup and instructions, see the [2.x documentation site][legacy-setup].
 <hr />
-
 &nbsp;
-## Support
 
-If you get stuck or simply want to talk to us about something, here are your options:
-* Chat! In the `2.x` app, click the blue message icon in the bottom-right corner and send a message. A real person will talk to you ASAP (typically very ASAP).
-* Shoot us an email at [support@neptune.ai](mailto:support@neptune.ai).
-&nbsp;
+Need help? Visit the [Support portal &rarr;][support]
 
 
 [client]: https://github.com/neptune-ai/neptune-client-scale
 [legacy-setup]: https://docs-legacy.neptune.ai/setup
+[support]: https://support.neptune.ai/
