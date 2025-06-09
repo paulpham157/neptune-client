@@ -22,7 +22,7 @@
 <hr />
 &nbsp;
 
-Need help? Visit the [Support portal &rarr;][support]
+Need help? Visit the [Support Center &rarr;][support]
 
 
 [client]: https://github.com/neptune-ai/neptune-client-scale
